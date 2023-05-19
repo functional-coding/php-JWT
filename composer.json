@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "functional-coding/php": "dev-master",
+        "functional-coding/base": "dev-master",
         "gree/jose": "dev-master",
         "php": ">=7.4",
         "phpseclib/phpseclib": "^2.0"

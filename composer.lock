@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f5e7e4e7d39ef7c7cdbb951b157fe32d",
+    "content-hash": "02d9a969661638e5836153adcccc8d23",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -242,17 +242,17 @@
             "time": "2020-12-29T14:50:06+00:00"
         },
         {
-            "name": "functional-coding/php",
+            "name": "functional-coding/base",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/functional-coding/php.git",
-                "reference": "c06ddbbb1d85ec79ed7a050b7b9711943cc95549"
+                "reference": "92d7fea668396a3458d1107262079b3f097f388e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/functional-coding/php/zipball/c06ddbbb1d85ec79ed7a050b7b9711943cc95549",
-                "reference": "c06ddbbb1d85ec79ed7a050b7b9711943cc95549",
+                "url": "https://api.github.com/repos/functional-coding/php/zipball/92d7fea668396a3458d1107262079b3f097f388e",
+                "reference": "92d7fea668396a3458d1107262079b3f097f388e",
                 "shasum": ""
             },
             "require": {
@@ -275,11 +275,17 @@
             "license": [
                 "MIT"
             ],
+            "authors": [
+                {
+                    "name": "jongwoo Yoo",
+                    "email": "dbwhddn10@gmail.com"
+                }
+            ],
             "support": {
                 "issues": "https://github.com/functional-coding/php/issues",
                 "source": "https://github.com/functional-coding/php/tree/master"
             },
-            "time": "2023-05-18T23:43:27+00:00"
+            "time": "2023-06-07T09:33:27+00:00"
         },
         {
             "name": "gree/jose",
@@ -5332,7 +5338,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "functional-coding/php": 20,
+        "functional-coding/base": 20,
         "gree/jose": 20
     },
     "prefer-stable": false,
